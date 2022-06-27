@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShopForHouse/static/css/main.858ba44a.css",
+    "main.js": "/ShopForHouse/static/js/main.775c1644.js",
+    "static/media/bg.jpeg": "/ShopForHouse/static/media/bg.b20221925e34ddd0fa1e.jpeg",
+    "index.html": "/ShopForHouse/index.html",
+    "main.858ba44a.css.map": "/ShopForHouse/static/css/main.858ba44a.css.map",
+    "main.775c1644.js.map": "/ShopForHouse/static/js/main.775c1644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858ba44a.css",
+    "static/js/main.775c1644.js"
+  ]
+}
